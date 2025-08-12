@@ -31,7 +31,6 @@ Kelly Costa
 ## 🌐 Versão online
 link https://ksantos-helo.github.io/Sorteio-Amigo-Secreto/
 
-## 📸 Captura de tela
-```
+##  🖼️ Interface
 
-```
+![Tela do projeto](assets/imagem_amigo_secreto.png)
