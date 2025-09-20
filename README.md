@@ -29,7 +29,7 @@ Perfeito para festas, encontros e confraternizações! 🎊
 Kelly Costa
 
 ## 🌐 Versão online
-[link - Sorteio Amigo Secreto ](02-projeto-sorteio-amigo-secreto.vercel.app)
+[link - Sorteio Amigo Secreto](https://02-projeto-sorteio-amigo-secreto.vercel.app/)
 ##  🖼️ Interface
 
 ![Tela do projeto](assets/imagem_amigo_secreto.png)
