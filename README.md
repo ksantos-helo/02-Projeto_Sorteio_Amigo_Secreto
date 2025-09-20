@@ -29,8 +29,7 @@ Perfeito para festas, encontros e confraternizações! 🎊
 Kelly Costa
 
 ## 🌐 Versão online
-link https://ksantos-helo.github.io/Sorteio-Amigo-Secreto/
-
+[link - Sorteio Amigo Secreto ](02-projeto-sorteio-amigo-secreto.vercel.app)
 ##  🖼️ Interface
 
 ![Tela do projeto](assets/imagem_amigo_secreto.png)
